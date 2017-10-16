@@ -1,0 +1,5 @@
+10 Print "Welcome to the Coin flipper"
+20 Print
+30 Print "By: Alex Christensen"
+40 cls
+50 
